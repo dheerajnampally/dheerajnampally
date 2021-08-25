@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dheeraj NAMPALLY
 
-- 👀 I’m interested in Computers and Technology 
+- 👀 I’m interested in Computers and Technology. 
       I have been programing using Microsoft Technologies especially .NET
 
 - 🌱 I’m currently learning Cloud Computing (with Azure)
