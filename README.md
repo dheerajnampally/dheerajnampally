@@ -4,7 +4,7 @@
       I have been programing using Microsoft Technologies especially .NET
 
 - 🌱 I’m currently learning Cloud Computing (with Azure)
--  I already know the following
+-  I already know the following with Azure
     1. How to create Machines/Servers(Windows/Linux)
     2. Managing Networks between services on servers
     3. Create docker images for applications and deploying them (serverless applications if needed)
