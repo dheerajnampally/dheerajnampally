@@ -12,6 +12,7 @@
     5. Create SQL instances (serverless if needed)
     6. Host applications and secure them (domains, https, SSO ..)
     7. Azure Functions
+    8. Storage accounts
     
 - 📫 You can reach me at nampally@hotmail.fr
 
