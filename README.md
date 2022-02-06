@@ -7,12 +7,13 @@
 -  I already know the following with Azure
     1. How to create Machines/Servers(Windows/Linux)
     2. Managing Networks between services on servers
-    3. Create docker images for applications and deploying them (serverless applications if needed)
-    4. Kubernetes
-    5. Create SQL instances (serverless if needed)
-    6. Host applications and secure them (domains, https, SSO ..)
-    7. Azure Functions
-    8. Storage accounts
+    3. Create docker images for applications and deploying them
+    4. Creating WEB Apps (Serverless)
+    5. Kubernetes
+    6. Create SQL instances (serverless if needed)
+    7. Host applications and secure them (domains, https, SSO ..)
+    8. Azure Functions
+    9. Storage accounts
     
 - 📫 You can reach me at nampally@hotmail.fr
 
