@@ -12,7 +12,7 @@
     5. Kubernetes.
     6. Create SQL instances (serverless if needed).
     7. Hosting applications and securing them (domains, https, SSO ..).
-    8. Azure Functions.
+    8. Azure functions.
     9. Storage accounts.
     10. Securing REST API's with APIKEY authentification.
     
