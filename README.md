@@ -14,7 +14,7 @@
     7. Hosting applications and securing them (domains, https, SSO ..).
     8. Azure functions.
     9. Storage accounts.
-    10. Securing REST API's with APIKEY authentification.
+    10. Securing REST API's.
     
 - 📫 You can reach me at nampally@hotmail.fr
 
