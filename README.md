@@ -5,15 +5,16 @@
 
 - 🌱 I’m currently learning Cloud Computing (with Azure)
 -  I already know the following with Azure
-    1. How to create Machines/Servers(Windows/Linux)
-    2. Managing Networks between services on servers
-    3. Create docker images for applications and deploying them
-    4. Creating WEB Apps (Serverless)
-    5. Kubernetes
-    6. Create SQL instances (serverless if needed)
-    7. Host applications and secure them (domains, https, SSO ..)
-    8. Azure Functions
-    9. Storage accounts
+    1. Creating Machines/Servers(Windows/Linux).
+    2. Managing Networks between services on servers.
+    3. Create docker images for applications and deploying them.
+    4. Creating WEB Apps (Serverless).
+    5. Kubernetes.
+    6. Create SQL instances (serverless if needed).
+    7. Hosting applications and securing them (domains, https, SSO ..).
+    8. Azure Functions.
+    9. Storage accounts.
+    10. Securing REST API's with APIKEY authentification.
     
 - 📫 You can reach me at nampally@hotmail.fr
 
